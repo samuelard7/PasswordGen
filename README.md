@@ -2,8 +2,13 @@
 
 Password Generator
 
--> It has two level of pass generation easy and hard.
+-> It has two levels of pass generation easy and hard.
 
--> Mixed order of symbols with numbers and alphabets makes extremely hard password. 
+-> Easy Level has a fixed order of [letters->numbers->symbols]
 
--> Usage of random module.
+-> But in Hard mixed order of symbols with numbers and alphabets makes an extremely hard password. 
+
+-> Usage of the random module.
+
+
+### Try and have fun!!!
