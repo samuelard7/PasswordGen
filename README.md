@@ -8,7 +8,7 @@ Password Generator
 
 -> But in Hard mixed order of symbols with numbers and alphabets makes an extremely hard password. 
 
--> Usage of the random module.
+-> Usage of the random module and os module for pausing the screen.
 
 
 ### Try and have fun!!!
